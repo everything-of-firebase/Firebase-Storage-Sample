@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Firebase Storage Sample</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Common -->
+    <string name="done">완료</string>
+    <string name="save">저장</string>
+
+    <!-- FishBun -->
+    <string name="fishbun_all_view_title">전체보기</string>
+    <string name="fishbun_nothing_selected">이미지를 하나 이상 선택해주세요.</string>
+    <string name="fishbun_limit_reached">선택가능개수를 모두 선택하셨습니다.</string>
+    <string name="fishbun_action_bar_title">앨범</string>
+
+    <!-- Permission -->
+    <string name="rationale_storage_perm">내부 저장소의 권한이 필요합니다.</string>
+</resources>
